@@ -67,8 +67,6 @@ This project implements a data pipeline that fetches, processes, and analyzes da
 
 9. the app metric can be viewed on https://dashboard.heroku.com/apps/dataengg-shravan-app
 10. i have turned off all the dynos as it had charges - anyone can run them on their local system for 0.19$/hour
-11. 
-
 
    
 
