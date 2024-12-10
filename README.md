@@ -3,9 +3,6 @@ Final Project 690 DACSS
 
 # NY Times Data Pipeline Project
 
-This project fetches and processes data from the New York Times Most Popular API, performs analysis, and trains a machine learning model.
-# NY Times Data Pipeline Project
-
 ## Overview
 This project implements a data pipeline that fetches, processes, and analyzes data from the New York Times Most Popular API. The pipeline is automated using Flask and Prefect, and the results are saved for further analysis and visualization.
 
