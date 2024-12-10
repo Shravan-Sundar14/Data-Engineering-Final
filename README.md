@@ -48,8 +48,6 @@ This project implements a data pipeline that fetches, processes, and analyzes da
 
 ---
 
-## Usage
-### To Run Locally:
 
 ## Features
 - Fetches the most popular shared articles.
@@ -64,6 +62,8 @@ This project implements a data pipeline that fetches, processes, and analyzes da
 5.  deploy on heroku
 6.  the output pictures have been uploaded aswell
 7.  a successful run should ensure you get the .csv file downloaded after running the .py file
+
+8. the output metrics of this execution can be found here https://github.com/Shravan-Sundar14/Data-Engineering-Final/blob/main/Output%20Metrics%20Data%20Engineering.pdf
 
 
    
