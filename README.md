@@ -17,5 +17,6 @@ This project fetches and processes data from the New York Times Most Popular API
 4.  Orchestrate the application on prefect
 5.  deploy on heroku
 6.  the output pictures have been uploaded aswell
+7.  a successful run should ensure you get the .csv file downloaded after running the .py file
    
 
